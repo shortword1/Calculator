@@ -34,12 +34,3 @@ Create a new branch (git checkout -b feature/AmazingFeature).
 Commit your changes (git commit -m 'Add some AmazingFeature').
 Push to the branch (git push origin feature/AmazingFeature).
 Open a Pull Request.
-
-License
-
-Distributed under the MIT License. See LICENSE for more information.
-
-Acknowledgments
-
-WPF for providing the framework to build the UI.
-.NET Community for continuous support and resources.
