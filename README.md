@@ -14,8 +14,8 @@ Getting Started
 
 To run this calculator on your system, you will need:
 
-.NET SDK installed on your machine. You can download it from here.
-Visual Studio or any compatible IDE that supports .NET and XAML.
+.NET SDK installed on your machine.
+Visual Studio
 
 Running the Application
 
@@ -23,14 +23,3 @@ Clone the repository to your local machine.
 Open the solution file in Visual Studio.
 Build the project by navigating to Build > Build Solution.
 Run the application by navigating to Debug > Start Without Debugging.
-
-Contribution
-
-Contributions to enhance or extend the functionality of the Basic Calculator are welcome. Please follow these steps to contribute:
-
-Fork the repository.
-
-Create a new branch (git checkout -b feature/AmazingFeature).
-Commit your changes (git commit -m 'Add some AmazingFeature').
-Push to the branch (git push origin feature/AmazingFeature).
-Open a Pull Request.
